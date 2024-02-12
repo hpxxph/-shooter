@@ -1,1 +1,0 @@
-ket_y = fighter_y - rocket_height
